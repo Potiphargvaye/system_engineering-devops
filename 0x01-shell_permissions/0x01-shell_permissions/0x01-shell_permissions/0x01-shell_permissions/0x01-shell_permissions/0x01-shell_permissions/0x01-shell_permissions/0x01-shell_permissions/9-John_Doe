@@ -1,0 +1,4 @@
+#!/bin/bash
+# Set permissions for hello: owner=rwx, group=r-x, others=-wx
+chmod 753 hello
+
