@@ -1,4 +1,0 @@
-#!/bin/bash
-# Create a file with special characters in its name and write 'Best School' in it
-
-echo "Best School" > '*\'"Best School"\'*$\?*****:)'
