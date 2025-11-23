@@ -1,5 +1,0 @@
-#!/bin/bash
-# Display the contents of /etc/passwd and /etc/hosts
-cat /etc/passwd
-echo "##"
-cat /etc/hosts
