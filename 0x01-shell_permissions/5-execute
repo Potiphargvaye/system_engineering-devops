@@ -1,0 +1,3 @@
+#!/bin/bash
+# Add execute permission for the owner of hello
+chmod u+x hello
