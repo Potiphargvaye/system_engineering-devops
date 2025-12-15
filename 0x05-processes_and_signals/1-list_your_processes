@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# This script lists all processes in a user-friendly format with hierarchy
+# This script lists all processes, showing all users, all TTYs, and hierarchy
 
-ps -ef --forest
+ps -A -o uid,pid,ppid,cmd --forest
